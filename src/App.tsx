@@ -17,7 +17,7 @@ const WeatherForcastApp = () => {
 
 
   const API_KEY =
-    'efbc7156e949a99de418363ddfd8876a'
+    ''
 
     // const handleCityChange = (event: React.ChangeEvent<HTMLInputElement>) => {
     // setCity(event.target.value);
